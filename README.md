@@ -10,18 +10,36 @@ Sou apaixonado por tecnologia e desenvolvimento web. Gosto de criar soluções p
 ## 🚀 Tecnologias & Ferramentas
 
 - **Front End:**
--  <i class="devicon-html5-plain-wordmark colored"></i>
+  
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" />
+          
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<i class="devicon-react-original colored"></i>
-<i class="devicon-nextjs-original-wordmark colored"></i>
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" />
           
                             
 - **Back End:** 
- <i class="devicon-nodejs-plain-wordmark colored"></i>
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
+          
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
           
-- **Banco de Dados:** MySQL, PostgreSQL  
-- **Outros:** Git, GitHub, Prisma, Supabase  
+- **Banco de Dados:**
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+          
+-   
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+            
+- **Outros:** 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+          , 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
+          , 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original-wordmark.svg" />
+            
 
 ---
 
@@ -44,8 +62,8 @@ Atualmente busco uma **oportunidade como Desenvolvedor Júnior ou Estagiário**,
 
 ## 📫 Como me encontrar
 
-- 💼 LinkedIn: https://www.linkedin.com/in/seu-link
-- 📧 Email: seuemail@email.com
+- 💼 LinkedIn: https://linkedin.com/in/matheus-arcangelli
+- 📧 Email: matheusarcangelli635@gmail.com
 
 ---
 ⭐ Se quiser, fique à vontade para explorar meus projetos!
