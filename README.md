@@ -22,7 +22,7 @@ Sou apaixonado por tecnologia e desenvolvimento web. Gosto de criar soluções p
                             
 - **Back End:** 
 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
+            <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/mysql.svg" width="40"/>
           
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
           
