@@ -25,8 +25,7 @@ Sou apaixonado por tecnologia e desenvolvimento web. Gosto de criar soluções p
             <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/mysql.svg" width="40"/>
           
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-          
-- **Banco de Dados:**
+### Banco de Dados:
 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
