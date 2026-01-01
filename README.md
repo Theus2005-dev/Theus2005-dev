@@ -19,9 +19,9 @@ Sou apaixonado por tecnologia e desenvolvimento web. Gosto de criar soluções p
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="40"/>
 </p>
                             
-- **Back End:** 
-
-            <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/mysql.svg" width="40"/>
+ **Back End:** 
+  <img
+src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/mysql.svg" width="40"/>
           
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 ### Banco de Dados:
